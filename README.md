@@ -6,4 +6,5 @@
 
 # Fork Info
 
-> [!NOTE] This is a fork of the original [ThuThesis](https://github.com/tuna/thuthesis) repository. This fork aims to provide a more catered version of the template for the sake of personalized usage. It will be modified to better fit the needs of daily working and studying.
+> [!NOTE]
+> This is a fork of the original [ThuThesis](https://github.com/tuna/thuthesis) repository. This fork aims to provide a more catered version of the template for the sake of personalized usage. It will be modified to better fit the needs of daily working and studying.
