@@ -2396,17 +2396,17 @@
       \sffamily\fontsize{26bp}{46.8bp}\selectfont
       \thu@title\par
     \endgroup
-    % \ifthu@main@language@english
-    %   \vskip 5.4pt%
-    %   \begingroup
-    %     \sffamily\bfseries\fontsize{20bp}{31.2bp}\selectfont
-    %     \thu@title@en\par
-    %   \endgroup
-    %   \vskip -9.2pt%
-    % \fi
-    % \vskip 24.1pt%
-    % \thu@title@page@degree@category\par
-    % \vfill
+    \ifthu@main@language@english
+      \vskip 5.4pt%
+      \begingroup
+        \sffamily\bfseries\fontsize{20bp}{31.2bp}\selectfont
+        \thu@title@en\par
+      \endgroup
+      \vskip -9.2pt%
+    \fi
+    \vskip 24.1pt%
+    \thu@title@page@degree@category\par
+    \vfill
     \ifthu@degree@type@academic
       \parbox[t][7.25cm][t]{\textwidth}{%
         \fangsong\fontsize{16bp}{31.2bp}\selectfont
